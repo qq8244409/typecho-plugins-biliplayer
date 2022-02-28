@@ -15,7 +15,7 @@ typecho插入bilibili视频 B站插件
 
 禁用了跳转B站
 
-安装的时候需要把名称改为 biliplayer 
+******安装的时候需要把名称改为 biliplayer 
 
 下载地址：https://www.taozi1.com/6645.html
 
