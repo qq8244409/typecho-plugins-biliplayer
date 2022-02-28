@@ -10,6 +10,9 @@ typecho插入bilibili视频 B站插件
 后台启用插件就可以了，不需要任何设置
 在编辑器加入按钮，直接输入BVID 就可以了
 禁用了跳转B站
+
+安装的时候需要把名称改为 biliplayer 
+
 下载地址：https://www.taozi1.com/6645.html
 
 测试地址 ：https://www.taozi1.com/6646.html
