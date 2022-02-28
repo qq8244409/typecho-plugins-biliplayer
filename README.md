@@ -14,3 +14,4 @@ typecho插入bilibili视频 B站插件
 
 测试地址 ：https://www.taozi1.com/6646.html
 
+![30258-redx8j8tvd](https://user-images.githubusercontent.com/23526372/155934457-6a21816e-6f8b-4f6e-a3c8-eae7126c19a7.png)
