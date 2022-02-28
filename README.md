@@ -1,0 +1,16 @@
+# typecho-plugins-biliplayer
+typecho-bilibili视频插件
+
+
+typecho插入bilibili视频 B站插件
+
+插件功能：
+
+前台自动加入CSS布局
+后台启用插件就可以了，不需要任何设置
+在编辑器加入按钮，直接输入BVID 就可以了
+禁用了跳转B站
+下载地址：https://www.taozi1.com/6645.html
+
+测试地址 ：https://www.taozi1.com/6646.html
+
