@@ -6,7 +6,7 @@
  *
  * @package biliplayer
  * @author  筷子
- * @version 1.0.7
+ * @version 1.0.8
  * @link 	https://www.taozi1.com
  * 
  */
@@ -93,7 +93,7 @@ EOF;
 			$regg = '/\[bilibili bv="(.+?)" p="(.+?)"]/sm';
 			if( preg_match($regg, $text) ){
 					
-				$replacement = '<div class="embed-biliplayer"><iframe class="iframe_video" src="//player.bilibili.com/player.html?bvid=$1&page=$2?auto=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" autoplay="false" autostart="false"> </iframe></div>';
+				$replacement = '<div class="embed-biliplayer"><iframe class="iframe_video" src="//player.bilibili.com/player.html?bvid=$1&page=$2?auto=0&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" autoplay="false" autostart="false"> </iframe></div>';
 				$text=preg_replace($regg,$replacement,$text);
 			}
 			
